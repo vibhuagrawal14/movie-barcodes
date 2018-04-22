@@ -1,6 +1,8 @@
 # Movie "Barcodes"
 
-![Bladerunner 2050](https://raw.githubusercontent.com/vibhuagrawal14/moviebarcodes/master/bladerunner.png)
+![Blade Runner 2049](https://raw.githubusercontent.com/vibhuagrawal14/moviebarcodes/master/bladerunner.png)
+Blade Runner 2049
+
 
 Python code for compressing frames into single-pixel wide verticles lines, stacked together side-by-side thus creating a "barcode".
 
