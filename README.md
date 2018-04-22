@@ -11,4 +11,4 @@ Python code for compressing frames into single-pixel wide verticles lines, stack
 **Usage:**
 * Provide the input video file path in the code
 * Provide an appropriate name for the output image
-  * python vid.py
+* Run as: python vid.py
